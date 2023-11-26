@@ -1,5 +1,5 @@
 {
-  "name": "silverstripe-terraformers/gridfield-rich-filter-header",
+  "name": "dcentrica/gridfield-rich-filter-header",
   "description": "Rich filter header component from GridField",
   "type": "silverstripe-vendormodule",
   "keywords": [
@@ -13,6 +13,10 @@
     {
       "name": "Silverstripe Terraformers",
       "email": "terraformers@silverstripe.com"
+    },
+    {
+      "name": "Dcentrica",
+      "email": "hello@dcentrica.com"
     }
   ],
   "support": {
